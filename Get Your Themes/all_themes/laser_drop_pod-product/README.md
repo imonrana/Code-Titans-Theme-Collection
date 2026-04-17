@@ -1,6 +1,8 @@
-# 📂 Theme Details: [Website Name]
+# 📂 Theme Details: [Laser DropCo]
 
 এটি একটি POD product এর স্টোর যেখানে খেলাধুলার সরঞ্জাম প্রদশন করা হয়েছে।
+### 📥 Download Theme
+[Download Zip File](./laser_drop_pod.zip)
 
 ### 🖼️ Preview
 ![Homepage Screenshot](./home.png)
