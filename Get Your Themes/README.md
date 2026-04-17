@@ -7,7 +7,6 @@
 | Website Name | Website URL | Password | Theme Name | Type | Developer | Profile | View Theme Folder |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Laser Drop** | [Visit Live](https://laserdropco.com/) | `N/A` | Minimog | Pod Product | Naeem | Ecomgaint | [📂 View Folder](./all_themes/laser_drop_pod-product/) |
-
 | **Absptimos** | [Visit Live](https://absoptimos.com.mx/) | `N/A` | Minimog | Pod Product | Naeem | Ecomgaint | [📂 View Folder](./all_themes/absptimos_pod-product/) |
 
 
